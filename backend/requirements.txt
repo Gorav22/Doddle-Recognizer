@@ -1,0 +1,7 @@
+flask
+flask-cors
+tensorflow
+numpy
+pybase64
+pillow
+Python-IO
